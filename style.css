@@ -1,0 +1,26 @@
+
+    body {
+        background-color:#d7e2e6;
+    }
+    hr {
+        color: rgb(154, 180, 201);
+        width:10%;
+      height: -50px;
+      border-style: none;
+        border-top-style:dotted;
+        border-width: 7px;
+        
+      
+    }
+    h2{
+        color:#2b97ea;
+    }
+h3{
+    color: rgb(200, 107, 186);
+}
+h1{
+    color: rgb(77, 100, 59);
+}
+img{
+    border-radius: 100%;
+}
